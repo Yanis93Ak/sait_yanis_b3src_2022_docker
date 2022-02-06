@@ -24,8 +24,7 @@ Créer un compte si vous n'en avez pas : [Hub Docker](https://hub.docker.com/)
 - Vérifier que vous possédez Docker Compose en effectuant la commande suivante: docker-compose -v
 - Vous rendre dans le dossier contenant le fichier Docker-compose.yml
 ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
-- Exécuter la commande suivante afin de monter et de lancer le container : docker-compose up, --> voir l'onglet ISSUE pour voir mon scrennshot de cette commande.  
-- 
+- Exécuter la commande suivante afin de monter et de lancer le container : docker-compose up, --> voir l'onglet "Issues" pour voir mon scrennshot de cette commande "Installation container".  
 - Pour arréter un container vous pouvez exécuter simultanément CTRL-C,
 - Vous avez pliusieurs container à Build ? Pas de problème Vous devez faire un "docker-compose up -d" en mode détaché, cela veut dire qu'il sera exécuté en baackground (arrière plan) et cela vous permez de pouvoir build un second conteneur une fois le premier installé.
 - Une fois le conteneur lancé sans erreur il faut aller sur: http://localhost:2000 si bien évidemment vous n'avez pas changé les configurations sur le fichier docker-compose.yml
