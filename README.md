@@ -32,5 +32,5 @@ ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
 - Pour arréter le container "docker-compose stop"
 - Et enfin pour le supprimer un "docker-compose down"
 
-~Enjoy :-)
+Enjoy :-)
 Create by Yanis SAIT
