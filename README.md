@@ -28,7 +28,7 @@ ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
 - Pour arréter un container vous pouvez exécuter simultanément CTRL-C,
 - Vous avez pliusieurs container à Build ? Pas de problème Vous devez faire un "docker-compose up -d" en mode détaché, cela veut dire qu'il sera exécuté en baackground (arrière plan) et cela vous permez de pouvoir build un second conteneur une fois le premier installé.
 - Une fois le conteneur lancé sans erreur il faut aller sur: http://localhost:3000 si bien évidemment vous n'avez pas changé les configurations sur le fichier docker-compose.yml
-- Pour lancer le container il faut faire un "docker-compose start"
+- Pour lancer le container il faut faire un "docker-compose start" ou "docker-compose up"
 - Pour arréter le container "docker-compose stop"
 - Et enfin pour le supprimer un "docker-compose down"
 
