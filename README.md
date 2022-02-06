@@ -31,7 +31,6 @@ ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
 - Pour lancer le container il faut faire un "docker-compose start"
 - Pour arréter le container "docker-compose stop"
 - Et enfin pour le supprimer un "docker-compose down"
-H~2~O
 
-Enjoy :-)
+~Enjoy :-)~
 Create by Yanis SAIT
