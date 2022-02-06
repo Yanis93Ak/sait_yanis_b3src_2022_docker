@@ -3,7 +3,7 @@ Projet: Docker Bachelor 3ème année System, Réseau et Cloud. Edit 06/02/2022 b
 
 # Description du projet :
 L’objectifs de ce projet est d’intégrer le déploiement d’une API Rest avec Docker afin de pouvoir
-l’intégrer dans un système d’intégration continue.  
+l’intégrer dans un système d’intégration continue.  (Intégration d'une architecture Web avec microservice dans docker).  
 
 
 ## Résumé :
