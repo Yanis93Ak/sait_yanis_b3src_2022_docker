@@ -12,7 +12,7 @@ Nous allons utiliser "DOCKER COMPOSE" pour exécuter l'application multi-contene
 ## Exigences :
 Installer Docker Desktop en vous rendant ici : https://www.docker.com/products/docker-desktop  
 Disposer d'une connexion Internet au moment de la création de l'image.  
-Créer un compte si vous n'en possedez pas sur DockerHub : https://hub.docker.com/  
+Créer un compte si vous n'en avez pas --> DockerHub : https://hub.docker.com/  
 
 
 ### Mise en place et lancement de l'application :
