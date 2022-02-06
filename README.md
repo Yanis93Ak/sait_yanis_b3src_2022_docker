@@ -1,5 +1,6 @@
 # sait_yanis_b3src_2022_docker
-Projet: Docker Bachelor 3ème année System, Réseau et Cloud. Edit 06/02/2022 by Yanis SAIT
+Projet: Docker Bachelor 3ème année System, Réseau et Cloud. Edit 06/02/2022 by Yanis SAIT  
+Enseignant: BEAUNY Geoffrey
 
 # Description du projet :
 L’objectifs de ce projet est d’intégrer le déploiement d’une API Rest avec Docker afin de pouvoir
