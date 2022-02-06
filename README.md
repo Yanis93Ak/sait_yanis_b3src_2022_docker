@@ -3,17 +3,20 @@ Projet: Docker Bachelor 3ème année System, Réseau et Cloud. Edit 06/02/2022 b
 
 # Description du projet :
 L’objectifs de ce projet est d’intégrer le déploiement d’une API Rest avec Docker afin de pouvoir
-l’intégrer dans un système d’intégration continue.
+l’intégrer dans un système d’intégration continue.  
+
 
 ## Résumé :
 Nous allons utiliser "DOCKER COMPOSE" pour exécuter l'application multi-conteneurs. Puis grâce à docker-compose nous pourrons créer, démarrer tous les services de notre configuration et supprimer nos containers en une ligne de commande, que nous verrons ci-dessous
 
-
+  
+  
 ## Exigences :
 Installer Docker Desktop en vous rendant ici : https://www.docker.com/products/docker-desktop  
 Disposer d'une connexion Internet au moment de la création de l'image.  
 Créer un compte si vous n'en avez pas --> DockerHub : https://hub.docker.com/  
-
+  
+  
 
 ### Mise en place et lancement de l'application :
 
@@ -28,6 +31,7 @@ ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
 - Pour lancer le container il faut faire un "docker-compose start"
 - Pour arréter le container "docker-compose stop"
 - Et enfin pour le supprimer un "docker-compose down"
+H~2~O
 
 Enjoy :-)
 Create by Yanis SAIT
