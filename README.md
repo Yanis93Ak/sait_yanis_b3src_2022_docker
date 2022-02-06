@@ -33,5 +33,10 @@ ex " cd .\Desktop\Projet Docker\"TEXTE*_docker",
 - Et enfin pour le supprimer un "docker-compose down"
 
 
-Enjoy :-)
+Conclusion:  
+
+Ce projet m'a permis de voir l'utilité de Docker qui est très interessant pour le déploiement des applications mais également d'intégrer une application dans ou plusieurs containers.
+
+Enjoy :-)  
+
 Create by Yanis SAIT
