@@ -9,14 +9,11 @@ COPY ./yarn.lock ./
 
 ###  Installing dependencies
 
-#Execute l'installation de yarn en silence
 RUN yarn install --silent
 
 # copy local files to app folder
 COPY . .
 
-#Sur le port 7000
 EXPOSE 7000
 
-#Execute la commande
 CMD ["yarn","start"]
