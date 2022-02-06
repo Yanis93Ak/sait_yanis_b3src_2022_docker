@@ -10,7 +10,7 @@ services:
         container_name: monapp-node-client
         tty: true
         ports:
-            - "2000:2000"
+            - "3000:3000"
         volumes: 
             - ./frontend:/app
             - /app/node_modules
